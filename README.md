@@ -12,6 +12,10 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
+git
+creer un compte github
+forker le projet
+le cloner
 
 ```
 
